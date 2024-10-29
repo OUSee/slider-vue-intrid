@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  /* outline: 1px solid greenyellow; */
+}
+body {
+  margin: 0;
+}
+nav {
+  list-style: none;
+}
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
